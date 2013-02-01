@@ -1,0 +1,7 @@
+app/code/community/My/Ibanner/                                  app/code/community/My/Ibanner/
+app/design/adminhtml/default/default/template/my_ibanner/       app/design/adminhtml/default/default/template/my_ibanner/
+app/design/frontend/default/default/layout/my_ibanner.xml       app/design/frontend/default/default/layout/my_ibanner.xml
+app/design/frontend/default/default/template/my_ibanner/        app/design/frontend/default/default/template/my_ibanner/
+app/etc/modules/My_Ibanner.xml                                  app/etc/modules/My_Ibanner.xml
+js/my_ibanner/                                                  js/my_ibanner/
+skin/frontend/default/default/my_ibanner/                       skin/frontend/default/default/my_ibanner/
