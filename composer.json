@@ -1,0 +1,7 @@
+{
+    "name":"my-ibanner/my-ibanner",
+    "type":"magento-module",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
